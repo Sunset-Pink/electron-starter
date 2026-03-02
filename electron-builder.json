@@ -1,0 +1,12 @@
+{
+	"appId": "pink.sunset.sunset-system",
+	"files": ["dist-backend", "dist-frontend"],
+	"icon": "./img.png",
+	"linux": {
+		"target": ["AppImage"],
+		"category": "Utility"
+	},
+	"win": {
+		"target": ["portable", "msi"]
+	}
+}
