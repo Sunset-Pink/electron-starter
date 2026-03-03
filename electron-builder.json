@@ -1,7 +1,7 @@
 {
 	"appId": "pink.sunset.sunset-system",
 	"files": ["dist-backend", "dist-frontend"],
-	"icon": "./img.png",
+	"icon": "./L.png",
 	"linux": {
 		"target": ["AppImage"],
 		"category": "Utility"
